@@ -1,6 +1,6 @@
 ﻿#include "Fraction.hpp"
 #include <iostream>
-#include <cmath>
+
 
 // Приватный метод для вычисления НОД
 unsigned int Fraction::gcd(unsigned int a, unsigned int b) {
